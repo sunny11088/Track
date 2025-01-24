@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62402117-5ca3-422d-a13a-825851f24eb5" name="Changes" comment="Working on Responsive">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Clients/Clients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Clients/Clients.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cta/Cta.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cta/Cta.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Faq/Faq.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Faq/Faq.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomeProducts/HomeProducts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomeProducts/HomeProducts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Industryserve/Industryserve.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Industryserve/Industryserve.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Productlisting/Productlisting.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Productlisting/Productlisting.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Products/Products.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Products/Products.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Relatedproducts/Relatedproducts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Relatedproducts/Relatedproducts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Team/Team.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Team/Team.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Testimonials/Testimonials.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Testimonials/Testimonials.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Allproducts/Pdetails.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Allproducts/Pdetails.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Contactus/Contactus.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Contactus/Contactus.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
-    </list>
+    <list default="true" id="62402117-5ca3-422d-a13a-825851f24eb5" name="Changes" comment="Working on Responsive" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +80,7 @@
       <workItem from="1737514713830" duration="1014000" />
       <workItem from="1737642061627" duration="8212000" />
       <workItem from="1737656516522" duration="298000" />
-      <workItem from="1737685415805" duration="1383000" />
+      <workItem from="1737685415805" duration="1970000" />
     </task>
     <task id="LOCAL-00001" summary="Added node_modules/ Git ignore File">
       <option name="closed" value="true" />
@@ -122,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737656791143</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Working on Responsive">
+      <option name="closed" value="true" />
+      <created>1737686834098</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737686834098</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
