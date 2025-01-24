@@ -277,7 +277,7 @@ a{
 //   color: #fff;
 //   display: inline-block;
 //   width: max-content;
-//   border-radius: 20px;
+//
 //   text-decoration: none;
 //   text-transform: uppercase;
 //   transition: background-color var(--transition-duration);
@@ -296,7 +296,7 @@ a{
   color: #fff;
   display: inline-block;
   width: max-content;
-  border-radius: 10px;
+
   text-decoration: none;
   text-transform: uppercase;
   transition: background-color var(--transition-duration);
@@ -305,12 +305,11 @@ a{
   font-weight: 500;
 }
 .btn-red {
-  padding: 13px 25px;
+  padding: 12px 25px;
   background-color: var(--clr-white);
   color: var(--clr-black);
   display: inline-block;
   width: max-content;
-  border-radius: 10px;
   text-decoration: none;
   text-transform: uppercase;
   transition: background-color var(--transition-duration);
@@ -372,7 +371,7 @@ a{
   background-color: #f44336; /* Adjust button color as needed */
   padding: 10px 20px;
   text-decoration: none;
-  border-radius: 20px;
+
 }
 
 .btn-link:hover {

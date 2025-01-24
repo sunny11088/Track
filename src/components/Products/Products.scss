@@ -6,7 +6,7 @@
 .product-card {
     padding: 15px;
     border: 1px solid rgba(0, 0, 0, 0.1);
-    border-radius: var(--card-border-radius);
+
     transition: box-shadow var(--transition-duration);
     margin-bottom: 30px;
   
@@ -17,10 +17,10 @@
     .product-thumbnail {
       overflow: hidden;
       line-height: 0;
-      border-radius: var(--card-border-radius);
+
   
       .product-card-thumbnail {
-        border-radius: var(--card-border-radius);
+
         width: 100%;
         height: 100%;
         transition: transform var(--transition-duration-thumbnail);
@@ -39,7 +39,7 @@
     .product-details {
       padding: 15px;
       border: 1px solid rgba(0, 0, 0, 0.1);
-      border-radius: var(--card-border-radius);
+
       margin-top: var(--card-border-radius);
       h4 {
         font-size: 24px;
@@ -64,7 +64,7 @@
     color: #fff;
     display: inline-block;
     width: max-content;
-    border-radius: 10px;
+
     text-decoration: none;
     text-transform: uppercase;
     font-size: 18px;

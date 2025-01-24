@@ -4,7 +4,7 @@
     .contact-form-left{
         padding: 30px;
         border: 1px solid rgba(0, 0, 0, 0.1);
-        border-radius: var(--card-border-radius);
+
         .address{
             .all-partners{
                 display: grid;
@@ -39,7 +39,7 @@
             gap: 30px;
             margin-top: 25px;
             .contact-info{
-                border-radius: var(--card-border-radius);
+
                 padding: 15px;
                 .name{
                     padding: 3px 0;
@@ -72,6 +72,7 @@
             display: block;
             width: 100%;
             padding: 1rem;
+            border-radius: 0;
             &:focus{
                 outline: none;
                 box-shadow: none;
