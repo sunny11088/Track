@@ -147,9 +147,10 @@ a{
   }
 }
 
-.font-76 {
-  font-size: 76px;
+.font-70 {
+  font-size: 70px;
   line-height: 1.1;
+  letter-spacing: -2px;
   @media only screen and (max-width: 1599px) {
     font-size: 66px;
     line-height: 1.1;
@@ -350,10 +351,11 @@ a{
 
 .section-home-banner {
   position: relative;
-  background-image: url('./assets/img/common/banner/home-banner.png'); /* Replace with your image path */
+  background-color: var(--bg-red);
+  //background-image: url('./assets/img/common/banner/home-banner.png'); /* Replace with your image path */
   background-size: cover;
   background-position: center;
-  height: 80vh;
+  height: 70vh;
   display: flex;
   align-items: center;
   justify-content: flex-start; /* Left align */

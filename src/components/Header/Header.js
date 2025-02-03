@@ -105,8 +105,8 @@ const Header = () => {
                 <nav className="navbar-my">
                     <div className="navbar-container">
                         <div className="nav-logo">
-                            <Link to="/" aria-label="Homepage" className="d-block">
-                                <img src={trackzer} alt="Logo" width="249" height="63"/>
+                            <Link to="/" aria-label="Homepage" className="d-flex align-items-center">
+                                <img src={trackzer} alt="Logo" className="borer" />
                             </Link>
                         </div>
                         <ul className={`navul ${isMenuOpen ? 'open' : ''}`}>
@@ -144,19 +144,15 @@ const Header = () => {
                             {/* <li className="nav-item">
                                 <NavLink to="/gallery" onClick={closeAllMenus} aria-label="Gallery" className="nav-link">Download Brochure</NavLink>
                             </li>*/}
-                            <li className="nav-item">
-                                {/* Use <a> tag with href for downloading the file */}
-                                <a
-                                    href="/path/to/your/brochure.pdf"
-                                    className="nav-link"
-                                    onClick={closeAllMenus}
-                                    aria-label="Download Brochure"
-                                    download
-                                >
-                                    Download Brochure
-                                </a>
-                            </li>
-
+                            <a
+                                href="../../assets/trackzer-company-profile.pdf"
+                                className="nav-link"
+                                onClick={closeAllMenus}
+                                aria-label="Download Brochure"
+                                download
+                            >
+                                Download Brochure
+                            </a>
                             <li className="nav-item">
                                 <NavLink to="/contactus" onClick={closeAllMenus} aria-label="Contact Us"
                                          className="nav-link">Contact Us</NavLink>
