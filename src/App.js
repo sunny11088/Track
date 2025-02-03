@@ -17,6 +17,7 @@ import SynchronizingPanel from "./pages/Products/SynchronizingPanel";
 import PLCVFDControlPanel from "./pages/Products/PLCVFDControlPanel";
 import SolarPanel800V from "./pages/Products/SolarPanel800V";
 import WhatsAppButton from "./components/WhatsAppButton";
+import { SpeedInsights } from "@vercel/speed-insights/react"; // ✅ Import is correct
 
 function App() {
   return (
@@ -26,8 +27,12 @@ function App() {
             v7_relativeSplatPath: true, // Opt-in for new relative path behavior in splat routes
           }}
       >
+        {/* SpeedInsights should be placed here to cover the entire app */}
+        <SpeedInsights />
+
         <ScrollToTop />
         <Header />
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/aboutus" element={<AboutUs />} />
@@ -46,8 +51,7 @@ function App() {
           {/* Other routes */}
         </Routes>
 
-        {/* Add the WhatsApp button outside of the <Routes> */}
-        <WhatsAppButton />
+       <WhatsAppButton />
 
         <Footer />
       </Router>
