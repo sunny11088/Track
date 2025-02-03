@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62402117-5ca3-422d-a13a-825851f24eb5" name="Changes" comment="Working on Responsive" />
+    <list default="true" id="62402117-5ca3-422d-a13a-825851f24eb5" name="Changes" comment="Working on Responsive">
+      <change afterPath="$PROJECT_DIR$/public/ss.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/trackzer-company-profile.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/common/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/trackzer-footer-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ss.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/trackzer-company-profile.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/common/trackzer-footer-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/common/trackzer-footer-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/common/trackzer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/common/trackzer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,26 +53,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Track&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "responsive-working",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Track/src/assets/img/common",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Track\src\assets\img\common" />
+      <recent name="E:\Track\public" />
+      <recent name="E:\Track\src\assets" />
+      <recent name="E:\Track\src" />
       <recent name="E:\TRACKZER\src\assets\img\common" />
-      <recent name="E:\TRACKZER\src\assets\img\common\clients" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Track\src\assets\img\common" />
+      <recent name="E:\Track\src\assets\img" />
+      <recent name="E:\Track\src\assets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -80,7 +102,9 @@
       <workItem from="1737514713830" duration="1014000" />
       <workItem from="1737642061627" duration="8212000" />
       <workItem from="1737656516522" duration="298000" />
-      <workItem from="1737685415805" duration="1970000" />
+      <workItem from="1737685415805" duration="2803000" />
+      <workItem from="1738514007354" duration="3298000" />
+      <workItem from="1738549750939" duration="3011000" />
     </task>
     <task id="LOCAL-00001" summary="Added node_modules/ Git ignore File">
       <option name="closed" value="true" />
