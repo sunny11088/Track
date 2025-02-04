@@ -297,13 +297,13 @@ a{
   color: #fff;
   display: inline-block;
   width: max-content;
-
   text-decoration: none;
   text-transform: uppercase;
   transition: background-color var(--transition-duration);
   font-size: 18px;
   line-height: 1.5;
   font-weight: 500;
+
 }
 .btn-red {
   padding: 12px 25px;
@@ -321,7 +321,7 @@ a{
   &:hover {
     background-color: var(--bg-red);
     color: var(--clr-white);
-    border: 1px solid var(--bg-red);
+    border: 1px solid var(--bg-white);
   }
 }
 
